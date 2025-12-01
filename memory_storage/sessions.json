@@ -1,0 +1,1155 @@
+{
+  "2d4159a6-8362-431c-9178-7a15c306eeba": {
+    "user_id": "mannan",
+    "created_at": 1764094201.6307163,
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have a swollen red leg and fever for 3 days",
+        "structured": {
+          "main_symptoms": [
+            "i have a swollen red leg",
+            "fever for 3 days"
+          ],
+          "duration_days": 3,
+          "severity": "mild",
+          "possible_causes": [
+            "Viral upper respiratory infection",
+            "Gastroenteritis"
+          ],
+          "red_flags": [],
+          "temperature_celsius": 3.0
+        }
+      }
+    ]
+  },
+  "392a18ca-b04d-4a23-9df1-7e20dcb3c3bb": {
+    "user_id": "mannan",
+    "created_at": 1764094206.498244,
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have a swollen red leg and fever for 3 days",
+        "structured": {
+          "main_symptoms": [
+            "i have a swollen red leg",
+            "fever for 3 days"
+          ],
+          "duration_days": 3,
+          "severity": "mild",
+          "possible_causes": [
+            "Viral upper respiratory infection",
+            "Gastroenteritis"
+          ],
+          "red_flags": [],
+          "temperature_celsius": 3.0
+        }
+      }
+    ]
+  },
+  "5b932055-5ac9-4311-bb98-e43bee6fe77b": {
+    "user_id": "mannan",
+    "created_at": 1764094251.956411,
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have cough, fever, body pain for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "i have cough",
+            "fever",
+            "body pain for 4 days"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [
+            "Viral upper respiratory infection",
+            "Cellulitis",
+            "Dengue"
+          ],
+          "red_flags": [],
+          "temperature_celsius": 4.0
+        }
+      }
+    ]
+  },
+  "821d6ed1-ecd5-4c2c-9ff2-55ca635b8c6b": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have fever, cough and body pain for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cough",
+            "body pain"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "1dac51a4-ffef-4136-af68-c77f4ecddc3e": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have fever, cough and body pain for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cough",
+            "body pain"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "0fbea6b5-f4d0-45b9-950d-9563f4135767": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have fever, cough and body pain for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cough",
+            "body pain"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "9c79c45c-0282-478a-88a6-1526ac81f796": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have fever, cough and body pain for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cough",
+            "body pain"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "dc3e8001-3609-4ea1-8f73-45ae89a4534d": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have high fever, body pain and rash for 3 days",
+        "structured": {
+          "main_symptoms": [
+            "high fever",
+            "body pain",
+            "rash"
+          ],
+          "duration_days": 3,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "529bd74e-57aa-4fba-b418-030d376bb983": {
+    "user_id": "user_t6aa345kq",
+    "entries": [
+      {
+        "user_id": "user_t6aa345kq",
+        "input_text": "I have a fever",
+        "structured": {
+          "main_symptoms": [
+            "a fever"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c8ce82ed-dc0b-42d2-8735-24541d93a9ef": {
+    "user_id": "user_2nni8jucg",
+    "entries": [
+      {
+        "user_id": "user_2nni8jucg",
+        "input_text": "i have fever for more then 3 days and i feel vomiting also",
+        "structured": {
+          "main_symptoms": [
+            "fever for more",
+            "3 days",
+            "vomiting also"
+          ],
+          "duration_days": 3,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "f1f9ed89-4eda-4995-8d7c-9d545a38713e": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for last 3 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold for last 3 days."
+          ],
+          "duration_days": 3,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c7bf0b72-3ca4-45bb-97ef-50a3cd061d48": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have cold for last 2 days .\r\n",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 2 days ."
+          ],
+          "duration_days": 2,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "4c4f9ff8-8e8d-4a73-bd10-dd6a759f371f": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "",
+        "structured": {
+          "main_symptoms": [],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "aad63bf2-f647-42d0-9d22-71fddc417ff4": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have cold for last 3 days.",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 3 days."
+          ],
+          "duration_days": 3,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "b1294861-31f8-4f27-b194-a73b76df01cb": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever",
+        "structured": {
+          "main_symptoms": [
+            "fever"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "9d79ea6d-f6d9-45ae-b770-4c66cb878231": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever",
+        "structured": {
+          "main_symptoms": [
+            "fever"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "f46a8d60-16e3-4ebf-8399-2f1d45f5c3a3": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "my leg is paining.",
+        "structured": {
+          "main_symptoms": [
+            "my leg is paining."
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "bdc491dc-90cd-467e-82cd-140c6c9da1d8": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "helo",
+        "structured": {
+          "main_symptoms": [
+            "helo"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c6130077-750f-4a88-9d66-f02da9c6b42b": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "helo",
+        "structured": {
+          "main_symptoms": [
+            "helo"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "4ee7bed2-1e1c-44f5-916e-8967edf38701": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold with headache ",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold with headache"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "a2ce3f49-cd22-4ddc-aa5f-8c2d237bf9fe": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": " hello",
+        "structured": {
+          "main_symptoms": [
+            "hello"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "1f054dbd-7e17-4efe-9640-66efa751b6d8": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have cold for last 6 days\r\n",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 6 days"
+          ],
+          "duration_days": 6,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "15d1f50b-98f5-4601-9e69-c2500c83787d": {
+    "user_id": "test_user",
+    "entries": [
+      {
+        "user_id": "test_user",
+        "input_text": "i have cold for last 6 days",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 6 days"
+          ],
+          "duration_days": 6,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "818b5cac-3494-4b55-8f9d-ec67c7d3b2ee": {
+    "user_id": "test_user",
+    "entries": [
+      {
+        "user_id": "test_user",
+        "input_text": "i have cold for last 6 days",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 6 days"
+          ],
+          "duration_days": 6,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "b4053bee-0dc3-4bd1-977d-cea973f8b9ac": {
+    "user_id": "test_user",
+    "entries": [
+      {
+        "user_id": "test_user",
+        "input_text": "i have cold for last 6 days",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 6 days"
+          ],
+          "duration_days": 6,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "0b8c67a3-278a-4420-aa8d-7268383d0082": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have cold for last 6 days\r\n",
+        "structured": {
+          "main_symptoms": [
+            "cold for last 6 days"
+          ],
+          "duration_days": 6,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "3c2ece7a-e82c-408c-864c-0a57cc1916fb": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have cold  and fever for last 4 days and my leg is also paining\r\n",
+        "structured": {
+          "main_symptoms": [
+            "cold",
+            "fever for last 4 days",
+            "my leg is also paining"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "5099823e-a593-435e-a3fa-0a93fafc32aa": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 9 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 9,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "b1370621-c668-41df-aa9b-82a135e625ea": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Fever and headache for 2 days",
+        "structured": {
+          "main_symptoms": [
+            "Fever",
+            "headache"
+          ],
+          "duration_days": 2,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "3913e87e-c5df-40d2-8c79-0d1076daad13": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Fever and headache for 2 days",
+        "structured": {
+          "main_symptoms": [
+            "Fever",
+            "headache"
+          ],
+          "duration_days": 2,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "55ebac21-eed8-4ea3-8feb-d27e2fdf9a0e": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 8 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold"
+          ],
+          "duration_days": 8,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "dc1ad706-416b-49c2-8dbe-3246ea886dbb": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i feel vomiting.",
+        "structured": {
+          "main_symptoms": [
+            "vomiting."
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "9180462f-f685-4859-b5f0-174cf7212e91": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have back pain and fever for 7 days.",
+        "structured": {
+          "main_symptoms": [
+            "back pain",
+            "fever ."
+          ],
+          "duration_days": 7,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "4c4a58ed-8526-4a1a-a6a6-6539daad59d7": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have weakness for 2 days.",
+        "structured": {
+          "main_symptoms": [
+            "weakness ."
+          ],
+          "duration_days": 2,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "8c70d39b-8bfc-460d-bd51-17b6c282dc33": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 9 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 9,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "84ba1ef1-3030-4a4e-a167-dcdc93e0b939": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "",
+        "structured": {
+          "main_symptoms": [],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "06fe2ec9-62e9-49ca-8457-ab372a848e60": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "",
+        "structured": {
+          "main_symptoms": [],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "218e2bc8-8e75-439e-9cb6-06a764c229b1": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 6 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold"
+          ],
+          "duration_days": 6,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "a0e4224d-0537-4c79-b38c-fd2e19276caf": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Medical Assessment SELF-CARE \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: self-care. Please verify medication allergies and seek urgent care if symptoms worsen.",
+        "structured": {
+          "main_symptoms": [
+            "Medical Assessment SELF-CARE \ud83e\udde0 AI Reasoning Summary This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days",
+            "severity = N/A. \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever",
+            "pain Advice: rest",
+            "hydration",
+            "saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest",
+            "fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest",
+            "hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever",
+            "pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: self-care. Please verify medication allergies",
+            "seek urgent care if symptoms worsen."
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 29.0
+        }
+      }
+    ]
+  },
+  "e689632b-6699-40fb-84ba-95092b1d31ba": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 5 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "723e2d15-676d-4a71-a946-328a124e37e0": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 10 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold"
+          ],
+          "duration_days": 10,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 10.0
+        }
+      }
+    ]
+  },
+  "cdcfafad-058b-45fd-818a-8de5b0a63c8e": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen.can you plz explain me the assesmment",
+        "structured": {
+          "main_symptoms": [
+            "Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days",
+            "severity = N/A. \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever",
+            "pain Advice: rest",
+            "hydration",
+            "saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest",
+            "fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest",
+            "hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever",
+            "pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies",
+            "seek urgent care if symptoms worsen.can you plz explain me the assesmment"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 29.0
+        }
+      }
+    ]
+  },
+  "e2321960-b539-4fa2-8dfb-fbe5870dbced": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 5 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c4bc56c2-6721-4c79-9654-e146f7baabe5": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 10 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 10,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 10.0
+        }
+      }
+    ]
+  },
+  "086568b7-c5f7-47e1-8050-ff37b7e95d70": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen.can you plz explaint the medicies",
+        "structured": {
+          "main_symptoms": [
+            "Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days",
+            "severity = N/A. \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever",
+            "pain Advice: rest",
+            "hydration",
+            "saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest",
+            "fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest",
+            "hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever",
+            "pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies",
+            "seek urgent care if symptoms worsen.can you plz explaint the medicies"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 29.0
+        }
+      }
+    ]
+  },
+  "136ca2ce-61e8-48c5-814c-67882a44444b": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold ",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c7a74796-1e02-4c18-8058-7125757909fa": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 5 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "b776e0e1-e3d1-44d9-a0cc-3b7b275c8c8f": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 5 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c5598bcb-99a3-42c5-8d13-a96e20f57244": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 5 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "f0d183b2-4e15-4108-9f0e-0ba317007bb7": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for  10 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 10,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 10.0
+        }
+      }
+    ]
+  },
+  "83b489a6-23ec-42e9-8f2d-c2a5f4934be1": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have body pain and weakness for 2 days",
+        "structured": {
+          "main_symptoms": [
+            "body pain",
+            "weakness"
+          ],
+          "duration_days": 2,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "c088f1b4-a34d-4c73-b0f0-1b80014e7427": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have weakness for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "weakness"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "45ea9ac5-1e4c-4ba2-a8b2-970084d9baf1": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for about 5 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold for about 5 days"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "188dab85-e1ad-4ef1-b239-6d3f1dd16e75": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Medical Assessment SELF-CARE \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: self-care. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the medicies",
+        "structured": {
+          "main_symptoms": [
+            "Medical Assessment SELF-CARE \ud83e\udde0 AI Reasoning Summary This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days",
+            "severity = N/A. \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever",
+            "pain Advice: rest",
+            "hydration",
+            "saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest",
+            "fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest",
+            "hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever",
+            "pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: self-care. Please verify medication allergies",
+            "seek urgent care if symptoms worsen. please explain me the medicies"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 29.0
+        }
+      }
+    ]
+  },
+  "e87b4ea4-9c17-41e2-a6dc-341af20f4d1b": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "fever , cough and body pain",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cough",
+            "body pain"
+          ],
+          "duration_days": null,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "02f4b7e6-bff7-4ab4-9325-9f823047b9dd": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Medical Assessment URGENT-CARE \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Dengue Match Score: 50% Matched 2 known keywords Viral upper respiratory infection Match Score: 43% Matched 3 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol only (avoid NSAIDs) paracetamol/acetaminophen for fever and pain antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: urgent-care. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the medicines",
+        "structured": {
+          "main_symptoms": [
+            "Medical Assessment URGENT-CARE \ud83e\udde0 AI Reasoning Summary This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days",
+            "severity = N/A. \ud83e\ude7a Probable Diagnoses Dengue Match Score: 50% Matched 2 known keywords Viral upper respiratory infection Match Score: 43% Matched 3 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest",
+            "fluid replacement Follow-up: In 5 days For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever",
+            "pain Advice: rest",
+            "hydration",
+            "saline gargles Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest",
+            "hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol only (avoid NSAIDs) paracetamol/acetaminophen for fever",
+            "pain antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: urgent-care. Please verify medication allergies",
+            "seek urgent care if symptoms worsen. please explain me the medicines"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 50.0
+        }
+      }
+    ]
+  },
+  "170b0db1-f815-4048-a6ed-a5a5e9ac8a04": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever and cold for 10 days.",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cold ."
+          ],
+          "duration_days": 10,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 10.0
+        }
+      }
+    ]
+  },
+  "c4b0e043-0eb3-4a17-aab6-c5f07a50e37b": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the  medicies",
+        "structured": {
+          "main_symptoms": [
+            "Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days",
+            "severity = N/A. \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever",
+            "pain Advice: rest",
+            "hydration",
+            "saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest",
+            "fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest",
+            "hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever",
+            "pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies",
+            "seek urgent care if symptoms worsen. please explain me the medicies"
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": [],
+          "temperature_celsius": 29.0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+.sidebar {
+  width: 220px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.55));
+  border-right: 1px solid rgba(0,0,0,0.04);
+  backdrop-filter: blur(6px);
+}
+.brand { text-align:center; }
+.brand .avatar { font-size: 30px; }
+.brand h2 { margin: 4px 0 0; color: #004d40; }
+.nav button {
+  display:block; width:100%; padding:10px; margin-bottom:8px; border-radius:10px; background:transparent; border:none; text-align:left; cursor:pointer;
+}
+.nav button.active { background: linear-gradient(90deg,#00695c,#00796b); color:white; }
+.sidebar-foot { margin-top:auto; font-size:0.85rem; text-align:center; color:#666; }

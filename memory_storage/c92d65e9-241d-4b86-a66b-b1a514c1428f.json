@@ -1,0 +1,20 @@
+{
+  "user_id": "mannan",
+  "created_at": 1764137574.5170383,
+  "entries": [
+    {
+      "user_id": "mannan",
+      "input_text": "I am vomiting and have diarrhea",
+      "structured": {
+        "main_symptoms": [
+          "I am vomiting",
+          "have diarrhea"
+        ],
+        "duration_days": null,
+        "severity": "",
+        "possible_causes": [],
+        "red_flags": []
+      }
+    }
+  ]
+}

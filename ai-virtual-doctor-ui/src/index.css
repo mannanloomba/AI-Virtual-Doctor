@@ -1,0 +1,356 @@
+:root {
+  --primary-color: #00796b;
+  /* Medical Teal */
+  --primary-dark: #004d40;
+  --secondary-color: #e0f2f1;
+  --text-color: #333;
+  --bg-color: #f4f7f6;
+  --card-bg: #ffffff;
+  --accent-color: #d81b60;
+  /* For urgent alerts */
+  --font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--primary-dark);
+}
+
+textarea {
+  font-family: var(--font-family);
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  resize: vertical;
+  transition: border-color 0.3s;
+}
+
+textarea:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 2px var(--secondary-color);
+}
+
+button {
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.1s;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+
+/* Tabs */
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+.tab-btn {
+  background: transparent;
+  border: 2px solid transparent;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #555;
+  border-radius: 20px;
+  transition: all 0.3s;
+}
+
+.tab-btn:hover {
+  background-color: #e0f2f1;
+  color: var(--primary-color);
+}
+
+.tab-btn.active {
+  background-color: var(--primary-color);
+  color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Input Card */
+.input-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+}
+
+.action-btn {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: opacity 0.3s;
+}
+
+.action-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+/* History List */
+.history-list {
+  list-style: none;
+  padding: 0;
+}
+
+.history-item {
+  background: #f9f9f9;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-size: 0.95em;
+  color: #444;
+}
+
+/* Analysis Result */
+.analysis-result {
+  margin-top: 20px;
+  padding: 20px;
+  background: #e3f2fd;
+  border-radius: 8px;
+  border: 1px solid #bbdefb;
+}
+
+.analysis-result h4 {
+  margin-top: 0;
+  color: #1565c0;
+}
+
+.disclaimer-box {
+  margin-top: 15px;
+  font-size: 0.85em;
+  color: #666;
+  font-style: italic;
+}
+
+:root {
+  --primary-color: #00796b;
+  /* Medical Teal */
+  --primary-dark: #004d40;
+  --secondary-color: #e0f2f1;
+  --text-color: #333;
+  --bg-color: #f4f7f6;
+  --card-bg: #ffffff;
+  --accent-color: #d81b60;
+  /* For urgent alerts */
+  --font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--primary-dark);
+}
+
+textarea {
+  font-family: var(--font-family);
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  resize: vertical;
+  transition: border-color 0.3s;
+}
+
+textarea:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 2px var(--secondary-color);
+}
+
+button {
+  font-family: var(--font-family);
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.1s;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+
+/* Tabs */
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+.tab-btn {
+  background: transparent;
+  border: 2px solid transparent;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #555;
+  border-radius: 20px;
+  transition: all 0.3s;
+}
+
+.tab-btn:hover {
+  background-color: #e0f2f1;
+  color: var(--primary-color);
+}
+
+.tab-btn.active {
+  background-color: var(--primary-color);
+  color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Input Card */
+.input-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+}
+
+.action-btn {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: opacity 0.3s;
+}
+
+.action-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+/* History List */
+.history-list {
+  list-style: none;
+  padding: 0;
+}
+
+.history-item {
+  background: #f9f9f9;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-size: 0.95em;
+  color: #444;
+}
+
+/* Analysis Result */
+.analysis-result {
+  margin-top: 20px;
+  padding: 20px;
+  background: #e3f2fd;
+  border-radius: 8px;
+  border: 1px solid #bbdefb;
+}
+
+.analysis-result h4 {
+  margin-top: 0;
+  color: #1565c0;
+}
+
+.disclaimer-box {
+  margin-top: 15px;
+  font-size: 0.85em;
+  color: #666;
+  font-style: italic;
+}
+
+.error-banner {
+  padding: 15px;
+  background: #ffebee;
+  color: #c62828;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* app shell */
+.app-shell {
+  display: flex;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f4f7f6, #eef6f4);
+}
+
+.main {
+  flex: 1;
+  padding: 28px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 18px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+  margin-bottom: 18px;
+  border-left: 6px solid #00796b;
+}
+
+.chart-card {
+  max-width: 520px;
+}
+
+.action-btn {
+  background-color: var(--primary-color, #00796b);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.error-banner {
+  padding: 12px;
+  background: #ffebee;
+  color: #c62828;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+.copy-button,
+.action-btn {
+  transition: transform .08s ease;
+}
+
+.copy-button:active,
+.action-btn:active {
+  transform: scale(.98);
+}

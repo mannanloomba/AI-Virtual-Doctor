@@ -1,0 +1,375 @@
+{
+  "Mannan": {
+    "history": [
+      "Cancer",
+      "Cancer"
+    ]
+  },
+  "61b45149-2907-48cd-8798-9eb1ded4a764": {
+    "user_id": "mannan ",
+    "created_at": 1764092587.2474027,
+    "entries": [
+      {
+        "user_id": "mannan ",
+        "input_text": "I have a swollen red leg and fever for 3 days",
+        "structured": {
+          "main_symptoms": [
+            "Swollen leg",
+            "Redness (Erythema)",
+            "Fever"
+          ],
+          "duration_days": 3,
+          "severity": "moderate",
+          "possible_causes": [
+            "Cellulitis",
+            "Systemic infection (Sepsis risk)"
+          ],
+          "red_flags": [
+            "Fever accompanying localized swelling and redness"
+          ],
+          "temperature_celsius": 3.0
+        }
+      }
+    ]
+  },
+  "f88c9a33-e61f-45a9-8223-508bc2690044": {
+    "user_id": "mannan",
+    "created_at": 1764092665.2474232,
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have cough, fever, body pain for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "cough",
+            "fever",
+            "body pain"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [
+            "Viral infection (e.g., Flu, Common cold, COVID-19)"
+          ],
+          "red_flags": [],
+          "temperature_celsius": 4.0
+        }
+      }
+    ]
+  },
+  "9d5ef19d-7b15-4591-9620-7e835d84d6a7": {
+    "user_id": "mannan",
+    "created_at": 1764139634.6575267,
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have fever and cough for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "fever",
+            "cough"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [
+            "Common Cold",
+            "Influenza",
+            "COVID-19",
+            "Bronchitis"
+          ],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "9f53bd7a-6f8f-4c20-a246-63b6a9579fdc": {
+    "user_id": "mannan",
+    "created_at": 1764139687.8476884,
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I have fever and cough for 4 days",
+        "structured": {
+          "main_symptoms": [
+            "fever and cough for 4 days"
+          ],
+          "duration_days": 4,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "2494819b-9b24-489b-9df6-ee6cf626ea51": [
+    {
+      "user_id": "mannan",
+      "time": 1764177512.6118643,
+      "events": []
+    },
+    {
+      "user_id": "mannan",
+      "input_text": "I have fever and cough for 4 days",
+      "structured": {
+        "main_symptoms": [
+          "fever",
+          "cough"
+        ],
+        "duration_days": 4,
+        "severity": "moderate",
+        "possible_causes": [],
+        "red_flags": []
+      }
+    }
+  ],
+  "c0397f55-9aa8-4b70-90db-1c3336dbf6f8": [
+    {
+      "user_id": "mannan",
+      "time": 1764177618.5768325,
+      "events": []
+    },
+    {
+      "user_id": "mannan",
+      "input_text": "I have fever and cough for 4 days",
+      "structured": {
+        "main_symptoms": [
+          "fever",
+          "cough"
+        ],
+        "duration_days": 4,
+        "severity": "moderate",
+        "possible_causes": [],
+        "red_flags": []
+      }
+    }
+  ],
+  "3f87bd45-17fe-4f33-9fee-239ac49e9505": [
+    {
+      "user_id": "mannan",
+      "time": 1764177632.7204003,
+      "events": []
+    },
+    {
+      "user_id": "mannan",
+      "input_text": "I have fever and cough for 4 days",
+      "structured": {
+        "main_symptoms": [
+          "fever",
+          "cough"
+        ],
+        "duration_days": 4,
+        "severity": "moderate",
+        "possible_causes": [],
+        "red_flags": []
+      }
+    }
+  ],
+  "mannan": {
+    "history": [
+      {
+        "record": "Auto-record: symptoms='I have fever, cough and body pain for 4 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "record": "Auto-record: symptoms='I have fever, cough and body pain for 4 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "record": "Auto-record: symptoms='I have high fever, body pain and rash for 3 days' -> diagnoses=['dengue', 'viral_upper_respiratory', 'malaria']"
+      },
+      {
+        "record": "Auto-record: symptoms='i have fever and cold for last 3 days.' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold for last 2 days .\r\n' -> diagnoses=[]"
+      },
+      {
+        "record": "Auto-record: symptoms='' -> diagnoses=[]"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold for last 3 days.' -> diagnoses=[]"
+      },
+      {
+        "record": "Auto-record: symptoms='i have fever' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "record": "Auto-record: symptoms='i have fever' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "record": "Auto-record: symptoms='my leg is paining.' -> diagnoses=['cellulitis']"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold for last 6 days\r\n' -> diagnoses=[]"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold for last 6 days\r\n' -> diagnoses=['viral_upper_respiratory']"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold  and fever for last 4 days and my leg is also paining\r\n' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria', 'cellulitis']"
+      },
+      {
+        "record": "Auto-record: symptoms='i have fever and cold for 9 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "record": {
+          "time": 1764528239.0753207,
+          "record": "Auto-record: symptoms='Fever and headache for 2 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+        }
+      },
+      {
+        "record": {
+          "time": 1764528239.0753207,
+          "record": "Auto-record: symptoms='Fever and headache for 2 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+        }
+      },
+      {
+        "record": {
+          "time": 1764528388.7167177,
+          "record": "Auto-record: symptoms='i have fever and cold for 8 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+        }
+      },
+      {
+        "record": {
+          "time": 1764528388.7167177,
+          "record": "Auto-record: symptoms='i have fever and cold for 8 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+        }
+      },
+      {
+        "record": {
+          "time": 1764528469.4921925,
+          "record": "Auto-record: symptoms='i feel vomiting.' -> diagnoses=['gastroenteritis']"
+        }
+      },
+      {
+        "record": {
+          "time": 1764528469.4921925,
+          "record": "Auto-record: symptoms='i feel vomiting.' -> diagnoses=['gastroenteritis']"
+        }
+      },
+      {
+        "time": 1764570385.5743465,
+        "record": "Auto-record: symptoms='i have back pain and fever for 7 days.' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764570997.6186037,
+        "record": "Auto-record: symptoms='i have weakness for 2 days.' -> diagnoses=[]"
+      },
+      {
+        "time": 1764571023.897343,
+        "record": "Auto-record: symptoms='i have fever and cold for 9 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764571934.4053137,
+        "record": "Auto-record: symptoms='' -> diagnoses=[]"
+      },
+      {
+        "time": 1764572452.1270478,
+        "record": "Auto-record: symptoms='i have fever and cold for 6 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764572467.627785,
+        "record": "Auto-record: symptoms='Medical Assessment SELF-CARE \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: self-care. Please verify medication allergies and seek urgent care if symptoms worsen.' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764574832.7960005,
+        "record": "Auto-record: symptoms='i have fever and cold for 5 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764574840.6730444,
+        "record": "Auto-record: symptoms='i have fever and cold for 10 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764574891.713885,
+        "record": "Auto-record: symptoms='Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen.can you plz explain me the assesmment' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764575690.1609232,
+        "record": "Auto-record: symptoms='i have fever and cold for 5 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764575703.2927573,
+        "record": "Auto-record: symptoms='i have fever and cold for 10 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764575831.7464616,
+        "record": "Auto-record: symptoms='Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen.can you plz explaint the medicies' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764576397.7906113,
+        "record": "Auto-record: symptoms='i have fever and cold ' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764580051.9123225,
+        "record": "Auto-record: symptoms='i have fever and cold for 5 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764580254.8909812,
+        "record": "Auto-record: symptoms='i have fever and cold for 5 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764580573.2656405,
+        "record": "Auto-record: symptoms='i have fever and cold for 5 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764580589.1447585,
+        "record": "Auto-record: symptoms='i have fever and cold for  10 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764580723.6444376,
+        "record": "Auto-record: symptoms='i have body pain and weakness for 2 days' -> diagnoses=['dengue', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764580759.1599884,
+        "record": "Auto-record: symptoms='i have weakness for 4 days' -> diagnoses=[]"
+      },
+      {
+        "time": 1764580919.631972,
+        "record": "Auto-record: symptoms='i have fever and cold for about 5 days' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764581016.3209095,
+        "record": "Auto-record: symptoms='Medical Assessment SELF-CARE \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: self-care. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the medicies' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764581641.6936328,
+        "record": "Auto-record: symptoms='fever , cough and body pain' -> diagnoses=['dengue', 'viral_upper_respiratory', 'malaria']"
+      },
+      {
+        "time": 1764581732.3602116,
+        "record": "Auto-record: symptoms='Medical Assessment URGENT-CARE \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Dengue Match Score: 50% Matched 2 known keywords Viral upper respiratory infection Match Score: 43% Matched 3 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol only (avoid NSAIDs) paracetamol/acetaminophen for fever and pain antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: urgent-care. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the medicines' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764581966.447102,
+        "record": "Auto-record: symptoms='i have fever and cold for 10 days.' -> diagnoses=['viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764582045.6925159,
+        "record": "Auto-record: symptoms='Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the  medicies' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      }
+    ]
+  },
+  "user_t6aa345kq": {
+    "history": [
+      {
+        "record": "Auto-record: symptoms='I have a fever' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      }
+    ]
+  },
+  "user_2nni8jucg": {
+    "history": [
+      {
+        "record": "Auto-record: symptoms='i have fever for more then 3 days and i feel vomiting also' -> diagnoses=['gastroenteritis', 'dengue', 'malaria', 'viral_upper_respiratory']"
+      }
+    ]
+  },
+  "test_user": {
+    "history": [
+      {
+        "record": "Auto-record: symptoms='i have cold for last 6 days' -> diagnoses=[]"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold for last 6 days' -> diagnoses=[]"
+      },
+      {
+        "record": "Auto-record: symptoms='i have cold for last 6 days' -> diagnoses=['viral_upper_respiratory']"
+      }
+    ]
+  }
+}

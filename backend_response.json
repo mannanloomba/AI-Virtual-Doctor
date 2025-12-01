@@ -1,0 +1,81 @@
+{
+  "structured": {
+    "session_id": "b4053bee-0dc3-4bd1-977d-cea973f8b9ac",
+    "structured": {
+      "main_symptoms": [
+        "cold for last 6 days"
+      ],
+      "duration_days": 6,
+      "severity": "moderate",
+      "possible_causes": [],
+      "red_flags": []
+    }
+  },
+  "diagnosis": {
+    "probable_diagnoses": [
+      {
+        "id": "viral_upper_respiratory",
+        "name": "Viral upper respiratory infection",
+        "score": 0.14,
+        "matched_keywords": 1,
+        "score_reason": "Matched 1 known keywords",
+        "recommended_tests": [
+          "None routine; consider rapid influenza or COVID test if indicated"
+        ]
+      }
+    ],
+    "recommended_tests": [
+      "None routine; consider rapid influenza or COVID test if indicated"
+    ],
+    "reasoning": "Rule-based knowledge matching from small KB"
+  },
+  "treatment": {
+    "treatment_plan": [
+      {
+        "disease": "Viral upper respiratory infection",
+        "plan": {
+          "non_pharmacologic": [
+            "rest",
+            "hydration",
+            "saline gargles"
+          ],
+          "first_line_medications": [
+            "paracetamol/acetaminophen for fever and pain"
+          ],
+          "follow_up_days": 5
+        }
+      }
+    ],
+    "medications": [
+      "paracetamol/acetaminophen for fever and pain"
+    ],
+    "non_pharmacologic": [
+      "rest",
+      "hydration",
+      "saline gargles"
+    ],
+    "follow_up_days": 5,
+    "notes": "",
+    "medication_safety": {
+      "interactions": [],
+      "pregnancy_warnings": [],
+      "age_warnings": []
+    }
+  },
+  "prescription": {
+    "prescription_id": "461f045c-0dc6-482c-86e0-7a2235fbf503",
+    "user_id": "test_user",
+    "medications": [
+      "paracetamol/acetaminophen for fever and pain"
+    ],
+    "notes": ""
+  },
+  "triage": {
+    "level": "self-care",
+    "reasons": [
+      "Mild symptoms or insufficient data"
+    ],
+    "confidence": 0.8
+  },
+  "disclaimer": "This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services."
+}

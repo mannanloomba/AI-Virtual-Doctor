@@ -1,0 +1,20 @@
+{
+  "user_id": "mannan",
+  "created_at": 1764138168.8291974,
+  "entries": [
+    {
+      "user_id": "mannan",
+      "input_text": "My stomach hurts after eating, vomiting 2 times",
+      "structured": {
+        "main_symptoms": [
+          "My stomach hurts after eating",
+          "vomiting 2 times"
+        ],
+        "duration_days": null,
+        "severity": "",
+        "possible_causes": [],
+        "red_flags": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+    border-radius: 8px;
+    }
+
+    .user-msg {
+        align-self: flex-end;
+        background: #e8f0ef;
+        padding: 8px;
+        border-radius: 8px;
+    }
+
+    .chat-input {
+        display: flex;
+        gap: 8px;
+        margin-top: 8px;
+    }
+
+    .chat-input input {
+        flex: 1;
+        padding: 8px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+    }
