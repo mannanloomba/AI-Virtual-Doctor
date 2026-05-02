@@ -47,6 +47,10 @@ vision_agent = VisionAgent()
 DISCLAIMER = ("This service is a clinical-assistance prototype for academic/competition use only. "
               "It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services.")
 
+@app.get("/")
+def read_root():
+    return {"message": "AI Virtual Doctor API is running. Visit /docs for the API documentation.", "status": "ok"}
+
 @app.get("/health-check")
 def health_check():
     return {"status": "ok", "disclaimer": DISCLAIMER}
