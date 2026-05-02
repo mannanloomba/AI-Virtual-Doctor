@@ -4,7 +4,8 @@ import "./HistoryTimeline.css";
 export default function HistoryTimeline({ userId }) {
     const [history, setHistory] = useState([]);
     useEffect(() => {
-        fetch(`http://127.0.0.1:8000/user/history?user_id=${userId}`)
+        const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+        fetch(`${apiUrl}/user/history?user_id=${userId}`)
             .then(r => r.json()).then(d => setHistory(d.history || []))
             .catch(() => setHistory([]));
     }, [userId]);

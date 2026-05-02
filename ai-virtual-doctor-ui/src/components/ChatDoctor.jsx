@@ -19,7 +19,8 @@ export default function ChatDoctor({ userId, onComplete }) {
         form.append("history", JSON.stringify(history));
 
         try {
-            const res = await fetch("http://127.0.0.1:8000/chat", { method: "POST", body: form });
+            const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+            const res = await fetch(`${apiUrl}/chat`, { method: "POST", body: form });
             const data = await res.json();
             setMessages(m => [...m, { from: "bot", text: data.response }]);
         } catch (err) {
@@ -33,7 +34,8 @@ export default function ChatDoctor({ userId, onComplete }) {
             formAssess.append("user_id", userId);
             formAssess.append("text", val);
             try {
-                const res = await fetch("http://127.0.0.1:8000/full-assess", { method: "POST", body: formAssess });
+                const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+                const res = await fetch(`${apiUrl}/full-assess`, { method: "POST", body: formAssess });
                 const data = await res.json();
                 setMessages(m => [...m, { from: "bot", text: "Assessment finished. See results below." }]);
                 onComplete && onComplete(data);

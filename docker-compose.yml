@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+    volumes:
+      - ./memory_storage:/app/memory_storage
+      - ./uploads:/app/uploads
+    # Optional: if you want code to hot-reload, uncomment below
+    #   - ./backend:/app/backend
+    #   - ./agents:/app/agents
+    #   - ./memory:/app/memory
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend.Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    # Optional: if you want code to hot-reload, uncomment below
+    # volumes:
+    #   - ./ai-virtual-doctor-ui/src:/app/src
+    #   - ./ai-virtual-doctor-ui/public:/app/public

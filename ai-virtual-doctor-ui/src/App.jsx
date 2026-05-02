@@ -38,7 +38,8 @@ function App() {
         formData.append("text", text);
 
         try {
-            const res = await fetch("http://127.0.0.1:8000/full-assess", {
+            const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+            const res = await fetch(`${apiUrl}/full-assess`, {
                 method: "POST",
                 body: formData,
             });
@@ -64,7 +65,8 @@ function App() {
         formData.append("file", selectedImage);
 
         try {
-            const res = await fetch("http://127.0.0.1:8000/upload-image", {
+            const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+            const res = await fetch(`${apiUrl}/upload-image`, {
                 method: "POST",
                 body: formData,
             });
@@ -88,7 +90,8 @@ function App() {
     const fetchHistory = async () => {
         setLoading(true);
         try {
-            const res = await fetch(`http://127.0.0.1:8000/user/history?user_id=${userId}`);
+            const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+            const res = await fetch(`${apiUrl}/user/history?user_id=${userId}`);
             if (!res.ok) throw new Error(`Server error: ${res.status}`);
             const data = await res.json();
             setHistory(data.history || []);
@@ -174,7 +177,8 @@ function App() {
                                     // call compare endpoint
                                     const form = new FormData(); form.append("user_id", userId); form.append("text", text || "");
                                     try {
-                                        const res = await fetch("http://127.0.0.1:8000/compare", { method: "POST", body: form });
+                                        const apiUrl = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+                                        const res = await fetch(`${apiUrl}/compare`, { method: "POST", body: form });
                                         const d = await res.json(); console.log("Compare:", d); alert("Compare results logged to console.");
                                     } catch (e) { alert("Compare failed"); }
                                 }}>Compare Rule vs AI</button>
