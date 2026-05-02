@@ -342,6 +342,18 @@
       {
         "time": 1764582045.6925159,
         "record": "Auto-record: symptoms='Medical Assessment EMERGENCY \ud83e\udde0 AI Reasoning Summary  This assessment combines rule-based matching with LLM reasoning. Key signals: duration = N/A days; severity = N/A.  \ud83e\ude7a Probable Diagnoses Viral upper respiratory infection Match Score: 29% Matched 2 known keywords Dengue Match Score: 25% Matched 1 known keywords Malaria Match Score: 25% Matched 1 known keywords \ud83d\udc8a Treatment Plan For: Viral upper respiratory infection Medications: paracetamol/acetaminophen for fever and pain Advice: rest, hydration, saline gargles Follow-up: In 5 days For: Dengue Medications: paracetamol only (avoid NSAIDs) Advice: rest, fluid replacement Follow-up: In 5 days For: Malaria Medications: antimalarials when confirmed Advice: rest, hydration Follow-up: In 5 days \ud83d\udcdd Prescriptions paracetamol/acetaminophen for fever and pain paracetamol only (avoid NSAIDs) antimalarials when confirmed DISCLAIMER: This service is a clinical-assistance prototype for academic/competition use only. It is NOT a substitute for a licensed medical professional. For emergencies call local emergency services. \ud83d\udcdd Doctor Summary: Patient reports symptoms. Triage: emergency. Please verify medication allergies and seek urgent care if symptoms worsen. please explain me the  medicies' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1764591573.8681946,
+        "record": "Auto-record: symptoms='I've had a fever and cold for 5 days, and I've been vomiting for the past 2 days.' -> diagnoses=['gastroenteritis', 'viral_upper_respiratory', 'dengue', 'malaria']"
+      },
+      {
+        "time": 1764592656.4386697,
+        "record": "Auto-record: symptoms='fever' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
+      },
+      {
+        "time": 1777661755.599162,
+        "record": "Auto-record: symptoms='i have fever for 7 days' -> diagnoses=['dengue', 'malaria', 'viral_upper_respiratory']"
       }
     ]
   },

@@ -1151,5 +1151,61 @@
         }
       }
     ]
+  },
+  "b9320505-00fe-4976-8e0b-0b4288e06c18": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "I've had a fever and cold for 5 days, and I've been vomiting for the past 2 days.",
+        "structured": {
+          "main_symptoms": [
+            "I've had a fever",
+            "cold",
+            "I've been vomiting for the past 2 days."
+          ],
+          "duration_days": 5,
+          "severity": "moderate",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "0d2c62bc-e861-4b92-9d6d-3bbc493f7905": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "fever",
+        "structured": {
+          "main_symptoms": [
+            "fever"
+          ],
+          "duration_days": null,
+          "severity": "mild",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
+  },
+  "469b8844-26a4-44c8-afed-d160ec3c8fc2": {
+    "user_id": "mannan",
+    "entries": [
+      {
+        "user_id": "mannan",
+        "input_text": "i have fever for 7 days",
+        "structured": {
+          "main_symptoms": [
+            "fever"
+          ],
+          "duration_days": 7,
+          "severity": "severe",
+          "possible_causes": [],
+          "red_flags": []
+        }
+      }
+    ]
   }
 }
